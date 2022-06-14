@@ -2,10 +2,10 @@
     opacity: .5;
   }
 
-  .dropzone {
+.dropzone {
     width: 200px;
     height: 20px;
-    background: rgb(rgb(0, 217, 255), green, blue);
+    background: rgb(38, 131, 194);
     margin: 10px;
     padding: 10px;
   }
